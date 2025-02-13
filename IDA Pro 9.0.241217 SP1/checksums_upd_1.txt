@@ -1,0 +1,22 @@
+MD5
+aa457cbe8c2e380764543d03844571ab *ida-pro_90sp1_armmac.app.zip
+a0d521a6e403616316b84da82876b8cb *ida-pro_90sp1_x64linux.run
+c25fc7f698629a97655f453da7731f51 *ida-pro_90sp1_x64mac.app.zip
+57caca01f05c181d57d238a36c8ce0fa *ida-pro_90sp1_x64win.exe
+7be45bc17781290ca0839240c23096cd *nfo.asc
+71ad472a2404e6867b2875a16d8a6736 *setup.sha256
+b81b45be57130043fe8fa69b65e85a4c *flair90sp1.zip
+7a7efb2f65122cc643de7e1694508d37 *idaclang90sp1.zip
+673d2eb9de610f11c27f683a1d67b644 *idasdk90sp1-doc.zip
+27fe1995a77d68806efd4307ae1689c1 *idasdk90sp1.zip
+47d453463069729455c2a4c93738d235 *idsutils90sp1.zip
+e32ad51c554cbae3597f8180b12b3364 *loadint90sp1.zip
+bacfe61eafec5f24b268226eb5dbdd97 *signatures-bundles-9.0sp1.metadata.zip
+dcccdadb93f15b9e50f729a07613c309 *signatures-bundles-9.0sp1.zip
+ecf8fb246ef411d6ec78de5aa9cea3f0 *tilib90sp1.zip
+8339c956973ba9c2f3b442761ec1fe19 *idapro.hexlic
+453252e12d91924914edf133e393a13a *keygen.sha256
+2a65b509e9511856a76a9f4bf49fbd34 *keygen2.py
+d0747273ef7d085663a124689dfd0d15 *linux original + patched.7z
+484e7843ea228f7234e6b4fec1547ab4 *windows original + patched.7z
+404bf217dd30f940f56f4bf1e8926281 *lumina.txt
